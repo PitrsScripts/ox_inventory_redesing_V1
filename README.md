@@ -1,0 +1,1 @@
+# ox_inventory_redesing_V1
